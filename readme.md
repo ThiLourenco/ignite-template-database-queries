@@ -35,6 +35,6 @@ $ cd ignite-template-database-queries
 $ yarn ou yarn install
 
 # Run All Tests
-$ yarn dev
+$ yarn test
 
 ```
