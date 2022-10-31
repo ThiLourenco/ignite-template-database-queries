@@ -1,7 +1,5 @@
 ## DATABASE - queries
 
-### Tests
-
 #### UsersRepository
 - [x] findUserWithGamesById
 - [x] findAllUsersOrderedByFirstName
@@ -24,3 +22,19 @@
 - [x] Should be able to get the total count of games
 - [x] Should be able to list users who have given game id
 
+## :computer: Install ##
+
+```bash
+# Clone this repository
+$ git clone https://github.com/Thifany-Nicastro/IgniteNode-ChapterIII-Desafio01.git
+
+# Entry folder 
+$ cd IgniteNode-ChapterIII-Desafio01
+
+# Install dependence
+$ yarn ou yarn install
+
+# Run All Tests
+$ yarn dev
+
+```
