@@ -10,7 +10,7 @@
 - [x] countAllGames
 - [x] findUsersByGameId
 
-### Específicação dos testes
+### Specification tests
 
 #### UsersRepository
 - [x] Should be able to find user with games list by user's ID
